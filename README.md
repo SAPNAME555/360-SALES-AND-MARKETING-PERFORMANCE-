@@ -4,7 +4,8 @@
 This project is a **Data Analytics Dashboard in Microsoft Excel** designed to analyze **3 years of E-commerce Sales & Marketing performance**.  
 It highlights key business metrics like **Revenue, sales, Discounts, Profits & ROI** to support **data-driven decision making**.
 
----
+---![Uploading Screenshot 2025-09-27 114243.png…]()
+
 
 ## ✨ Dashboard Preview
 
