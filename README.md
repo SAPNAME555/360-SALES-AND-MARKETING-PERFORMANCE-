@@ -51,5 +51,5 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 1.DASHBOARD 
 2.PROJECT REPORT
 3. KPIs
- and clean data in different sheets so on
+4. clean data in different sheets
 
