@@ -42,7 +42,7 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 | Power Query ⚙️ | Data cleaning & transformation |
 | Pivot Tables 📊 | Data summarization & metrics |
 | Pivot Charts 📈 | Trend visualization |
-| Power pivot 📊  | star schema |
+| Power pivot 📊  | STAR schema |
 | BI Concepts 📌 | Insight generation |
 
 ---
