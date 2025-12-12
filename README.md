@@ -79,7 +79,7 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 | Power pivot 📊     | Data modelling(STAR schema)|
 | BI Concepts 📌     | Insight generation |
 |DAX Measures 📚     |KPIs (Total Revenue, Discount %, ROI) |
-|Advance formulas ƒx |XLOOKUP,IF and AND |
+|Advance formulas ƒx |XLOOKUP, IF and AND |
 ---
 
 
