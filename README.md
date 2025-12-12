@@ -4,11 +4,14 @@
 This project is a **Data Analytics Dashboard in Microsoft Excel** designed to analyze **3 years of E-commerce Sales & Marketing performance**.  
 It highlights key business metrics like **Revenue, sales, Discounts, Profits & ROI** to support **data-driven decision making**.
 
+
+
+
+
 ## 📁 Project Structure
 
 ```
 360-SALES-AND-MARKETING-PERFORMANCE/
-
 │
 ├── 📂 messy_data/
 │   └── 360° SALES AND MARKETING MESSY DATA.xlsx
