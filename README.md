@@ -5,6 +5,16 @@ This project is a **Data Analytics Dashboard in Microsoft Excel** designed to an
 It highlights key business metrics like **Revenue, sales, Discounts, Profits & ROI** to support **data-driven decision making**.
 
 
+## 🎯 Objectives
+
+- **Clean and transform raw data** for accurate and efficient analysis.  
+- **Build dynamic pivot-based dashboards** to enable interactive reporting.  
+- **Track key KPIs** such as Revenue, ROI, Discount Impact, and Category Growth.  
+- **Identify year-wise and region-wise performance trends** to understand business patterns.  
+- **Generate actionable insights** that support data-driven business decision-making.  
+
+
+
 
 ## ✨ Dashboard Preview
 
