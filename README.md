@@ -58,7 +58,8 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 |Advance formulas ƒx |XLOOKUP,IF and AND |
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
 360-SALES-AND-MARKETING-PERFORMANCE/
 │
 ├── 📂 messy_data/
@@ -68,12 +69,13 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 ├── 📂 project_files/
 │   └── 360° SALES AND MARKETING PERFORMANCE.xlsx
 │       - Sheet 1: 📊 Dashboard (Interactive performance dashboard)
-│       - Sheet 2: 📝 Project Report (Insights, findings, and summary)
-│       - Sheet 3: 📈 KPIs (All calculated metrics and formulas)
+│       - Sheet 2: 📝 Project Report (Insights, findings, summary)
+│       - Sheet 3: 📈 KPIs (All calculated metrics & formulas)
 │       - Sheet 4: 🧹 Clean Data Tables (Power Query cleaned & transformed data)
 │
 └── 📄 README.md
     - Main documentation explaining the project, insights, and structure
+
 
 
 ## 📚 Project Learnings
