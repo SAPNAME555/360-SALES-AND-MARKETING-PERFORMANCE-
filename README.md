@@ -59,10 +59,22 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 ---
 
 ## 📂 Project Structure
-{1.DASHBOARD 
-2.PROJECT REPORT
-3. KPIs
-4. clean data tables in next sheets
+360-SALES-AND-MARKETING-PERFORMANCE/
+│
+├── 📂 messy_data/
+│   └── 360° SALES AND MARKETING MESSY DATA.xlsx
+│       - Raw, unclean dataset used before applying Power Query transformations
+│
+├── 📂 project_files/
+│   └── 360° SALES AND MARKETING PERFORMANCE.xlsx
+│       - Sheet 1: 📊 Dashboard (Interactive performance dashboard)
+│       - Sheet 2: 📝 Project Report (Insights, findings, and summary)
+│       - Sheet 3: 📈 KPIs (All calculated metrics and formulas)
+│       - Sheet 4: 🧹 Clean Data Tables (Power Query cleaned & transformed data)
+│
+└── 📄 README.md
+    - Main documentation explaining the project, insights, and structure
+
 
 ## 📚 Project Learnings
 - Real-world dashboard building  
