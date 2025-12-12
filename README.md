@@ -112,5 +112,4 @@ Together, we can make this project more impactful and valuable for the data anal
 ## 📬 Contact
 
 **Sapna Mehra**  
-📧 sapnamehra232@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/sapna-mehra-288794335
+📧 sapnamehra232@gmail.com  🔗 **LinkedIn:** https://www.linkedin.com/in/sapna-mehra-288794335
