@@ -74,7 +74,7 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 │       - Sheet 4: 🧹 Clean Data Tables (Power Query cleaned & transformed data)
 │
 └── 📄 README.md
-    - Main documentation explaining the project, insights, and structure
+    - Main documentation explaining the project, insights, and structure```
 
 
 
