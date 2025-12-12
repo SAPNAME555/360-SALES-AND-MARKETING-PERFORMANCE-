@@ -10,7 +10,7 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 
 
 
-Dashboard Screenshot
+📌Dashboard Screenshot
 ---
 <img width="1892" height="927" alt="Screenshot 2025-12-12 114541" src="https://github.com/user-attachments/assets/4d809486-3309-486e-b442-355e00a936bb" />
 
