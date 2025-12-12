@@ -4,6 +4,27 @@
 This project is a **Data Analytics Dashboard in Microsoft Excel** designed to analyze **3 years of E-commerce Sales & Marketing performance**.  
 It highlights key business metrics like **Revenue, sales, Discounts, Profits & ROI** to support **data-driven decision making**.
 
+## 📁 Project Structure
+
+```
+360-SALES-AND-MARKETING-PERFORMANCE/
+
+│
+├── 📂 messy_data/
+│   └── 360° SALES AND MARKETING MESSY DATA.xlsx
+│       - Raw, unclean dataset used before applying Power Query transformations
+│
+├── 📂 project_files/
+│   └── 360° SALES AND MARKETING PERFORMANCE.xlsx
+│       - Sheet 1: 📊 Dashboard (Interactive performance dashboard)
+│       - Sheet 2: 📝 Project Report (Insights, findings, summary)
+│       - Sheet 3: 📈 KPIs (All calculated metrics & formulas)
+│       - Sheet 4: 🧹 Clean Data Tables (Power Query cleaned & transformed data)
+│
+└── 📄 README.md
+    - Main documentation explaining the project, insights, and structure
+```
+
 
 ## 🎯 Objectives
 
@@ -58,23 +79,7 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 |Advance formulas ƒx |XLOOKUP,IF and AND |
 ---
 
-## 📁 Project Structure
 
-360-SALES-AND-MARKETING-PERFORMANCE/
-│
-├── 📂 messy_data/
-│   └── 360° SALES AND MARKETING MESSY DATA.xlsx
-│       - Raw, unclean dataset used before applying Power Query transformations
-│
-├── 📂 project_files/
-│   └── 360° SALES AND MARKETING PERFORMANCE.xlsx
-│       - Sheet 1: 📊 Dashboard (Interactive performance dashboard)
-│       - Sheet 2: 📝 Project Report (Insights, findings, summary)
-│       - Sheet 3: 📈 KPIs (All calculated metrics & formulas)
-│       - Sheet 4: 🧹 Clean Data Tables (Power Query cleaned & transformed data)
-│
-└── 📄 README.md
-    - Main documentation explaining the project, insights, and structure```
 
 
 
