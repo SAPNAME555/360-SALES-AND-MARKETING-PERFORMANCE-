@@ -59,7 +59,7 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 ---
 
 ## 📂 Project Structure
-1.DASHBOARD 
+{1.DASHBOARD 
 2.PROJECT REPORT
 3. KPIs
 4. clean data tables in next sheets
