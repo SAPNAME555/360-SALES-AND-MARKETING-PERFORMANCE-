@@ -31,7 +31,7 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 | Marketing ROI | Invest more in high-ROI channels |
 | Payment Model | Promote prepaid options to reduce COD losses |
 | Growth Category | Expand top-performing categories like Fashion |
-
+| Data quality |Improve source data quality for more accurate insights and analysis |
 ---
 
 ## 🛠 Tools & Techniques Used
@@ -42,14 +42,44 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 | Power Query ⚙️ | Data cleaning & transformation |
 | Pivot Tables 📊 | Data summarization & metrics |
 | Pivot Charts 📈 | Trend visualization |
-| Power pivot 📊  | STAR schema |
+| Power pivot 📊  | Data modelling(STAR schema)|
 | BI Concepts 📌 | Insight generation |
-
+|DAX Measures 📚 |KPIs (Total Revenue, Discount %, ROI) |
+|Advance formulas ƒx |XLOOKUP,IF and AND |
 ---
 
 ## 📂 Project Structure
 1.DASHBOARD 
 2.PROJECT REPORT
 3. KPIs
-4. clean data in different sheets
+4. clean data tables in next sheets
 
+## 📚 Project Learnings
+- Real-world dashboard building  
+- Handling inconsistent datasets  
+- Designing KPI-driven reports  
+- Converting insights into business actions  
+
+---
+
+## 🚀 How to Use This Project
+1. Download the Excel file  
+2. Open the **Dashboard** sheet  
+3. Use slicers (Year and Category) to interact with the visuals  
+4. Read overall performance from the ** PROJECT REPORT** sheet
+
+
+## 🤝 Contributions
+I welcome contributions that help improve this project.  
+If you have suggestions for enhancements, bug fixes, or new features, feel free to submit a pull request.
+
+For major changes or new ideas, please open an issue first so we can discuss the proposed updates and ensure they align with the project goals.
+
+Together, we can make this project more impactful and valuable for the data analytics community.
+
+## 📬 Contact
+
+**Sapna Mehra**  
+📧 sapnamehra232@gmail.com  
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/yourusername  
