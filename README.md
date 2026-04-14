@@ -1,11 +1,12 @@
+## 📊 360° Sales & Marketing Performance
+
+<img width="1892" height="927" alt="Screenshot 2025-12-12 114541" src="https://github.com/user-attachments/assets/4d809486-3309-486e-b442-355e00a936bb" />
+
 
 ## 📝 Project Overview
 
 This project is a **Data Analytics Dashboard in Microsoft Excel** designed to analyze **3 years of E-commerce Sales & Marketing performance**.  
 It highlights key business metrics like **Revenue, sales, Discounts, Profits & ROI** to support **data-driven decision making**.
-
-
-
 
 
 ## 📁 Project Structure
@@ -35,18 +36,9 @@ It highlights key business metrics like **Revenue, sales, Discounts, Profits & R
 - **Build dynamic pivot-based dashboards** to enable interactive reporting.  
 - **Track key KPIs** such as Revenue, ROI, Discount Impact, and Category Growth.  
 - **Identify year-wise and region-wise performance trends** to understand business patterns.  
-- **Generate actionable insights** that support data-driven business decision-making.  
+- **Generate actionable insights** that support data-driven business decision-making. 
 
 
-
-
-## ✨ Dashboard Preview
-
-
-
-📌Dashboard Screenshot
----
-<img width="1892" height="927" alt="Screenshot 2025-12-12 114541" src="https://github.com/user-attachments/assets/4d809486-3309-486e-b442-355e00a936bb" />
 
 ## 🔍 Key Business Insights
 
